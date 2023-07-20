@@ -1,0 +1,3 @@
+/mnt/c/Users/leoke/CLionProjects/prova3/cmake-build-debug/CMakeFiles/prova3.dir
+/mnt/c/Users/leoke/CLionProjects/prova3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/leoke/CLionProjects/prova3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
